@@ -1,1 +1,1 @@
-file:///C:/Users/alpys/Downloads/QALQAN_AI_HTML/index.html
+Работающая демонстрационная страница: https://candid-kleicha-b7cb32.netlify.app
